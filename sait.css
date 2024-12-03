@@ -16,7 +16,6 @@ body{
 }
 
 
-/* Style for the container */
 .painting-container {
   display: flex;
   justify-content: center;
@@ -25,9 +24,8 @@ body{
   margin: 20px;
 }
 
-/* Style for the buttons */
 .switch-button {
-  background-color: #8b4513; /* Match the frame color */
+  background-color: #8b4513; 
   color: #fff;
   border: none;
   border-radius: 50%;
@@ -53,7 +51,6 @@ body{
   right: 10px;
 }
 
-/* Style for the article and image (same as before) */
 article {
   display: flex;
   justify-content: center;
