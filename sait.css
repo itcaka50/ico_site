@@ -6,6 +6,11 @@ h2{
     color: white;
 }
 
+p{
+  color:white;
+  font-size: large;
+}
+
 a{
     text-decoration: none;
     color: white;
