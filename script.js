@@ -10,7 +10,8 @@ const images = ["batpoker.webp",
                 "icecream2.jpg",
                 "gatto.webp",
                 "biggergatto.webp",
-                "shah.jpg"];
+                "shah.jpg",
+                "minion.png"];
 let currentIndex = 0;
 
 function previousImage() {
