@@ -23,6 +23,7 @@ body{
 article{
   border : solid;
   border-color: #fff;
+  display: block;
 }
 
 
