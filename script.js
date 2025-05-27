@@ -1,18 +1,18 @@
-const images = ["batpoker.webp", 
-                "batandmoon.png",
-                "corgiball.webp",
-                "store.webp", 
-                "gangstabrokol.webp", 
-                "tennisham.webp",
-                "antonboat.jfif",
-                "aatroxrene.webp",
-                "icecream.jpg",
-                "icecream2.jpg",
-                "gatto.webp",
-                "biggergatto.webp",
-                "shah.jpg",
-                "minion.png",
-                "djizusa.png"];
+const images = ["img/batpoker.webp", 
+                "img/batandmoon.png",
+                "img/corgiball.webp",
+                "img/store.webp", 
+                "img/gangstabrokol.webp", 
+                "img/tennisham.webp",
+                "img/antonboat.jfif",
+                "img/aatroxrene.webp",
+                "img/icecream.jpg",
+                "img/icecream2.jpg",
+                "img/gatto.webp",
+                "img/biggergatto.webp",
+                "img/shah.jpg",
+                "img/minion.png",
+                "img/djizusa.png"];
 let currentIndex = 0;
 
 function previousImage() {
